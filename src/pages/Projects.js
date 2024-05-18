@@ -18,7 +18,7 @@ const Projects = () => (
           <p>A selection of my favorite projects</p>
         </div>
       </header>
-      {data.map((project) => (
+      {Object.values(data).map((project) => (
         <Cell
           data={project}
           key={project.title}

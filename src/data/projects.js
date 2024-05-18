@@ -1,8 +1,9 @@
 // TODO Add a couple lines about each project
-const data = [
-  {
+const data = {
+  'nearest-dollar': {
     title: 'Nearest Dollar',
     subtitle: '2015 BVP Hackathon',
+    link: '/projects/nearest-dollar',
     image: '/images/projects/nearestdollar.jpg',
     date: '2015-11-20',
     desc:
@@ -11,10 +12,10 @@ const data = [
       + 'or debit cards and rounded up your purchases to donate the balance to '
       + 'the charity of your choice.',
   },
-  {
+  harvest: {
     title: 'Harvest',
     subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
+    link: '/projects/harvest',
     image: '/images/projects/harvest.jpg',
     date: '2015-09-20',
     desc:
@@ -22,10 +23,10 @@ const data = [
       + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
       + 'and nutrient deficiencies at an affordable price for the developing world.',
   },
-  {
+  'space-potato': {
     title: 'Space Potato',
     subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
+    link: '/projects/space-potato',
     image: '/images/projects/spacepotato.jpg',
     date: '2015-06-28',
     desc:
@@ -33,9 +34,10 @@ const data = [
       + 'and gps transponder. Resulting photos were published in a coffee table book. '
       + 'You can email me for a copy.',
   },
-  {
+  'cat-detector': {
     title: 'Cat Detector',
     subtitle: 'A convolutional neural network to classify cats! (and dogs)',
+    link: '/projects/cat-detector',
     image: '/images/projects/catdetector.jpg',
     date: '2015-05-15',
     desc:
@@ -43,6 +45,6 @@ const data = [
       + 'Over 60,000 cats were classified before server bills made the project too expensive '
       + 'to continue hosting.',
   },
-];
+};
 
 export default data;
