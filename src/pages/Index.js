@@ -13,9 +13,8 @@ const Index = () => (
           <h2><Link to="/">About this site</Link></h2>
         </div>
       </header>
-      <p> Welcome to my personal website/portfolio. Please feel free to read more <Link to="/about">about me</Link>,
-        check out my {' '}
-        <Link to="/resume">resume</Link>, {' '}
+      <p> Welcome to my personal website/portfolio. Please feel free to check out my {' '}
+        <Link to="/resume">resume</Link> {' '}
         or view some of my <Link to="/projects">favorite projects</Link>. {' '}
       </p>
     </article>
