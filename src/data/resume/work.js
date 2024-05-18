@@ -19,8 +19,7 @@ const work = [
     startDate: '2023-06-01',
     summary: `All American is an extremely popular fast food resturaunt on Long Island. As a Cashier,
     I interracted with hundreds of customers in a given shift and worked with many coworkers to ensure
-    an efficient operation while maintaining safety and food quality. My responsibilities extended
-    beyond taking orders and I also assisted with food preparation and quality control. I developed an ability
+    an efficient operation. I assisted with food preparation, quality control, and customer service. I developed an ability
     to work effectively in a physically and mentally stressful environment while staying calm and communicating
     with other team members.`,
     highlights: [
