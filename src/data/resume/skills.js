@@ -65,7 +65,7 @@ const skills = [
   },
   {
     title: 'OCaml',
-    category: ['Back-end', 'Data Science', 'Languages'],
+    category: ['Data Science', 'Languages'],
   },
   {
     title: 'C',
@@ -73,7 +73,7 @@ const skills = [
   },
   {
     title: 'MicroPython',
-    category: ['Back-end', 'Languages', 'Low-Level'],
+    category: ['Languages', 'Low-Level'],
   },
   {
     title: 'Git',
@@ -108,17 +108,17 @@ const skills = [
 // this is a list of colors that I like. The length should be === to the
 // number of categories. Re-arrange this list until you find a pattern you like.
 const colors = [
-  '#6968b3',
-  '#37b1f5',
-  '#40494e',
-  '#515dd4',
-  '#e47272',
-  '#cc7b94',
-  '#3896e2',
-  '#c3423f',
-  '#d75858',
-  '#747fff',
-  '#64cb7b',
+  '#6968b3', // Purple
+  '#37b1f5', // Light Blue
+  '#64cb7b', // Green
+  // '#515dd4', // Dark Blue
+  '#e47272', // Red
+  // '#cc7b94', // Lighter Red
+  // '#3896e2', // Turqoise-ish
+  // '#c3423f', // Another Red
+  '#d75858', // Another Red
+  // '#747fff', // Another Blue
+  '#40494e', // Gray
 ];
 
 const categories = [

@@ -60,7 +60,7 @@ const Skills = ({ skills, categories }) => {
     <div className="skills">
       <div className="link-to" id="skills" />
       <div className="title">
-        <h3>Skills</h3>
+        <h2>Skills</h2>
       </div>
       <div className="skill-button-container">
         {getButtons()}
