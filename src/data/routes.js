@@ -1,12 +1,8 @@
 const routes = [
   {
     index: true,
-    label: "Michael D'Angelo",
+    label: 'Matthew McAuley',
     path: '/',
-  },
-  {
-    label: 'About',
-    path: '/about',
   },
   {
     label: 'Resume',
